@@ -1,0 +1,2 @@
+# CPL-Task6
+This is a program that access a text file and then by using three user-defined functions the text in the file is saved in an array (called read) by the first function (called reading), and by the second function (called reverse) we reverse the characters arrangement using pointers (by treatment the array as a pointer indicates to the first element in the array), finally by the third function (called writing) we add the modified array (read) to the text file.
